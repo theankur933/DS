@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: gray;
+    font-family: cursive;
+    text-align: center;
+}
+
+ul, li{
+    list-style-type: none;
+    line-height: 2;
+    display: flex;
+    color:darkblue;
+    flex-direction: column;
+}
+
+h2{
+    color: white;
+    text-decoration: underline;
+}
